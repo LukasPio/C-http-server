@@ -1,7 +1,5 @@
 # HTTP Server em C
 
-> Um servidor HTTP/1.1 construído do zero em C para estudar redes, sistemas e programação low-level.
-
 ## Idioma / Language
 
 - [Português (PT-BR)](#português-pt-br)
