@@ -20,6 +20,7 @@
 - [Status](#status)
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Compilação](#compilação)
+- [Observação sobre os commits](#observação-sobre-os-commits)
 - [Aviso de segurança](#aviso-de-segurança)
 
 ### Sobre o projeto
@@ -87,6 +88,12 @@ make compile
 
 As instruções de execução serão adicionadas quando a interface de linha de comando e as opções do servidor estiverem definidas.
 
+### Observação sobre os commits
+
+As mensagens de commit deste projeto foram escritas com o auxílio de inteligência artificial. Por isso, elas podem não representar com total precisão as alterações realizadas e não devem ser consideradas uma fonte completamente confiável sobre o histórico do projeto.
+
+> **Eu gosto de programar, não de escrever commits ou READMEs**
+
 ### Aviso de segurança
 
 Este software é experimental e desenvolvido para fins educacionais. Não deve ser exposto à internet nem utilizado em ambientes de produção sem uma revisão de segurança adequada.
@@ -104,6 +111,7 @@ Este software é experimental e desenvolvido para fins educacionais. Não deve s
 - [Project status](#project-status)
 - [Project structure](#project-structure)
 - [Building](#building)
+- [A note about the commits](#a-note-about-the-commits)
 - [Security notice](#security-notice)
 
 ### About the project
@@ -170,6 +178,14 @@ make compile
 ```
 
 Run instructions will be added once the command-line interface and server options have been defined.
+
+### A note about the commits
+
+The commit messages in this project were written with the assistance of artificial intelligence. As a result, they may not describe every change with complete accuracy and should not be treated as a fully reliable account of the project's history.
+
+> **Eu gosto de programar, não de escrever commits ou READMEs**
+>
+> *I like programming, not writing commits or READMEs.*
 
 ### Security notice
 
